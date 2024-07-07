@@ -57,5 +57,6 @@ class MoreIndexerDemo
         {
             Console.Write(obj[-k] + " ");
         }
+        Console.WriteLine();
     }
 }
